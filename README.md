@@ -11,7 +11,7 @@ Here, you'll find a diverse range of projects, each with its own quirks and oddi
 
 ## Projects
 
-### Project 1: [Cake]
+### Project 1: [Cake](https://github.com/iAldo801/stupidshit/tree/main/cake)
 - **Description:** You click in the yellow square and it adds "candles" and if you press the button start microphone and blow they will go away 👍.
 - **Language:** [HTML/CSS/JavaScript/]
 
