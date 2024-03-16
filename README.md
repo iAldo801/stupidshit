@@ -20,8 +20,4 @@ Here, you'll find a diverse range of projects, each with its own quirks and oddi
 
 Feel free to contribute to this repository by adding your own silly projects or improving existing ones. Just fork the repository, make your changes, and submit a pull request. I'd love to see what kind of nonsense you come up with!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for any purpose, but remember to give credit where it's due.
-
 ---
